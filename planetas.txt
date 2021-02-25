@@ -1,0 +1,3 @@
+mercurio
+marte
+jupiter
