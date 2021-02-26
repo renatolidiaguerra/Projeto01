@@ -1,1 +1,10 @@
 dentista
+dermatologista
+pediatra
+geriatra
+cardiologista
+clinico geral
+psiquiatra
+psicologo
+endocrinologista
+neurologista
